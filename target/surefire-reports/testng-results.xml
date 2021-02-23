@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61" started-at="2021-02-14T04:11:18Z" finished-at="2021-02-14T04:11:18Z">
+    <groups>
+    </groups>
+    <test name="abcTest" duration-ms="61" started-at="2021-02-14T04:11:18Z" finished-at="2021-02-14T04:11:18Z">
+      <class name="polineni.akhilmaven.Appiumtest">
+        <test-method status="PASS" signature="iosapps()[pri:0, instance:polineni.akhilmaven.Appiumtest@6be46e8f]" name="iosapps" duration-ms="1" started-at="2021-02-14T04:11:18Z" finished-at="2021-02-14T04:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosapps -->
+        <test-method status="PASS" signature="nativeappandroid()[pri:0, instance:polineni.akhilmaven.Appiumtest@6be46e8f]" name="nativeappandroid" duration-ms="1" started-at="2021-02-14T04:11:18Z" finished-at="2021-02-14T04:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeappandroid -->
+      </class> <!-- polineni.akhilmaven.Appiumtest -->
+      <class name="polineni.akhilmaven.Restapitest">
+        <test-method status="PASS" signature="deletetwitter()[pri:0, instance:polineni.akhilmaven.Restapitest@68837a77]" name="deletetwitter" duration-ms="11" started-at="2021-02-14T04:11:18Z" finished-at="2021-02-14T04:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:polineni.akhilmaven.Restapitest@68837a77]" name="postjira" duration-ms="1" started-at="2021-02-14T04:11:18Z" finished-at="2021-02-14T04:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- polineni.akhilmaven.Restapitest -->
+      <class name="polineni.akhilmaven.Seleniumtest">
+        <test-method status="PASS" signature="browserautomation()[pri:0, instance:polineni.akhilmaven.Seleniumtest@3567135c]" name="browserautomation" duration-ms="0" started-at="2021-02-14T04:11:18Z" finished-at="2021-02-14T04:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomation -->
+        <test-method status="PASS" signature="elementsui()[pri:0, instance:polineni.akhilmaven.Seleniumtest@3567135c]" name="elementsui" duration-ms="1" started-at="2021-02-14T04:11:18Z" finished-at="2021-02-14T04:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsui -->
+      </class> <!-- polineni.akhilmaven.Seleniumtest -->
+    </test> <!-- abcTest -->
+  </suite> <!-- Suite -->
+</testng-results>
